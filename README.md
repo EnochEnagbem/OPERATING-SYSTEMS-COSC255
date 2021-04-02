@@ -17,7 +17,7 @@ ____
 
 ____
 ##### INSTALLATION
-```To run these programs you need to install a software program called Java SE Development Kit (or JDK for short, and SE means Standard Edition). You also need a text editor or an IDE that support java to run the programs(e.g. Intelli J, NeatBeans, Vscode)```
+```To run these programs you need to install a software program called Java SE Development Kit (or JDK for short, and SE means Standard Edition). You also need a text editor or an IDE that support java to run the programs(e.g. Intelli J ,NeatBeans, Vscode)```
 
 
 ##### RUN CODE
