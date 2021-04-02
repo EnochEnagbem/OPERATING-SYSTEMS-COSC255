@@ -11,7 +11,7 @@ This program accept the following as inputs
 After accepting the input it then compute the following
 -Sorting
 
-    Which is `arranging the process starting from the one with smallest execution time`
+    Which is `arranging the processes starting from the one with smallest execution time`
 
 -  Waiting Time
 
