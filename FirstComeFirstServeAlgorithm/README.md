@@ -26,7 +26,7 @@ After accepting the input it then compute the following
 
 
 After the computation, the program then display the following
-- Process Number
+- Process Number(in order of execution)
 - Every Process Burst Time
 - Every Process Waiting Time
 - Every Process Turnaround Time
