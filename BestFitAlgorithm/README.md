@@ -14,7 +14,7 @@ This program accept the following as inputs
 After accepting the input it then compute the following
 -  Fragmentation
 
-    Which is `Block size - file`
+    Which is `Block size - file size`
 - Allocation
     Which is `assigning the file to the best fit block size`
 
