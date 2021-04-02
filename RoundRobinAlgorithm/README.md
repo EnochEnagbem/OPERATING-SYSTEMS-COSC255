@@ -5,6 +5,7 @@ In Round-robin scheduling, each ready task runs turn by turn only in a cyclic qu
 ### HOW IT WORKS
 This program accept the following as inputs
 
+- Number of Processes
 - Size of time slice
 - Burst Time for every process
 
