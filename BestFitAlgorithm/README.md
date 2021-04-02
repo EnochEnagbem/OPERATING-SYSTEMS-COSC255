@@ -30,5 +30,5 @@ After the computation, the program then display the following
 
 ##### RUN CODE
 To run the this program. You should
-copy the entire contents of any of the folder into a project in the IDE or Text Editor, and then run the Main.java in the folder.
+copy the entire contents of  the folder into a project in the IDE or Text Editor, and then run the Main.java in the folder.
 ___
