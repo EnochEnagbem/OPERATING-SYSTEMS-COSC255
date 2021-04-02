@@ -18,8 +18,6 @@ After accepting the input it then compute the following
     Which is `Memory size/ Page size`
 - Physical Address
 
-    Which is
-
 
 After the computation, the program then display the following
 - Number of Pages Available in Memory
