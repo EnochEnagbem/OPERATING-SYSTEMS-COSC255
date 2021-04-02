@@ -21,7 +21,7 @@ ____
 
 
 ##### RUN CODE
-If you want to run the algorithms in an IDE OR Text Editor. You should
+If you want to run the algorithms in an IDE or Text Editor. You should
 copy the entire contents of any of the algorithm into a project in the IDE or Text Editor, and then run the Main.java in the folder.
 
 ____
