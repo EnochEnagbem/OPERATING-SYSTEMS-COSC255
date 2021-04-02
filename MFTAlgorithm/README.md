@@ -11,4 +11,22 @@ This technique accept the following as inputs
 - Total Memory available
 - Block Size
 - Number of Processes
-- Memory Require for a Process
+- Memory Require for every Process
+
+After accepting the input it then compute the following
+-  Number of Blocks
+
+    Which is `Total Memory Available / Block Size`
+- External Fragmentation
+
+    Which is `Total Memory available - Number of blocks * Block Size`
+
+- Internal Fragmentation
+
+    Which is `Block Size - Memory require for a particular Process`
+
+After the compute the program then display the following
+- Total Internal Fragmentation
+- Total External Fragmentation
+- Memory Require for a Every Process
+- Allocation
