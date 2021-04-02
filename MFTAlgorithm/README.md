@@ -30,3 +30,7 @@ After the computation, the program then display the following
 - Total External Fragmentation
 - Memory Require for a Every Process
 - Allocation
+
+##### RUN CODE
+To run the this program. You should
+copy the entire contents of any of the algorithm into a project in the IDE or Text Editor, and then run the Main.java in the folder.
