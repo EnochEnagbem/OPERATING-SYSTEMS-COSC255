@@ -14,14 +14,10 @@ This program accept the following as inputs
 After accepting the input it then compute the following
 -  Memory Allocation
 
-    Which is `if Memory Require for a particular < Total Memory Available there will allocation else no allocation`
+    Which is `if Memory Require for a particular < Total Memory Available there will allocation else there will be no allocation`
 - External Fragmentation
 
-    Which is `Total Memory available - Number of blocks * Block Size`
 
-- Internal Fragmentation
-
-    Which is `Block Size - Memory require for a particular Process`
 
 After the computation, the program then display the following
 - Total Memory Available
