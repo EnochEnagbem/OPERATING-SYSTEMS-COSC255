@@ -6,7 +6,7 @@ which the memory is partitioned into fixed size partitions and each job is assig
 assigned to a partition does not change.
 
 #### HOW IT WORKS
-This technique accept the following as inputs
+This program accept the following as inputs
 
 - Total Memory available
 - Block Size
