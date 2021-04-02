@@ -1,4 +1,4 @@
-####  BEST FIT MEMOERY MANAGEMENT TECHNIQUE
+####  BEST FIT MEMORY MANAGEMENT TECHNIQUE
 ___
 In this memory management technique, the operating system first searches the whole of the memory according to the size of the given job and allocates it to the closest-fitting free partition in the memory, making it able to use memory efficiently.
 
@@ -27,7 +27,8 @@ After the computation, the program then display the following
 -File numbers
 - Fragmentation for every block
 
+
 ##### RUN CODE
 To run the this program. You should
-copy the entire contents of any of the algorithm into a project in the IDE or Text Editor, and then run the Main.java in the folder.
+copy the entire contents of any of the folder into a project in the IDE or Text Editor, and then run the Main.java in the folder.
 ___
