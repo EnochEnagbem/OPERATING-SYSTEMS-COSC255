@@ -25,7 +25,7 @@ After accepting the input it then compute the following
 
     Which is `Block Size - Memory require for a particular Process`
 
-After the compute the program then display the following
+After the computation, the program then display the following
 - Total Internal Fragmentation
 - Total External Fragmentation
 - Memory Require for a Every Process
