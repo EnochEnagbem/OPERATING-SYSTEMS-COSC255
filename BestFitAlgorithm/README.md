@@ -16,6 +16,7 @@ After accepting the input it then compute the following
 
     Which is `Block size - file size`
 - Allocation
+
     Which is `assigning the file to the best fit block size`
 
 
