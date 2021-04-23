@@ -1,7 +1,7 @@
 ____
-#### SCAN DISK SCHEDULING TECHNIQUE
+#### BANKER'S DEADLOCK MANAGEMENT ALGORITHM
 ___
-In this algorithm, the disk arm moves into a particular direction till the end, satisfying all the requests coming in its path, and then it turns back and moves in the reverse direction satisfying requests coming in its path. It works in the way an elevator works, elevator moves in a direction completely till the last floor of that direction and then turns back.
+The banker’s algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation for predetermined maximum possible amounts of all resources, then makes an “s-state” check to test for possible activities, before deciding whether allocation should be allowed to continue.
 
 #### HOW IT WORKS
 This program accept the following as inputs
